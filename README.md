@@ -226,9 +226,13 @@ Dedicatória (opcional)
 AGRADECIMENTOS
 
 
-
-Na página de agradecimentos o autor dirige palavras de reconhecimento àqueles que contribuíram para a elaboração do trabalho. O conteúdo não deve ultrapassar uma página e por isso, é necessário que ele seja sucinto e objetivo.
-O texto deve ser escrito em Times New Roman, Tamanho 12, Alinhamento Justificado, Espaçamento entre linhas de 1,5 linhas e com recuo de parágrafo de 1,25 cm.
+Gostaria de agradecer a minha família, por sempre me apoiar, por estar ao meu lado, sempre
+auxiliando, pagando meus estudos, acreditando em meu potencial em todos os momentos,
+sem eles não chegaria até aqui.
+Gostaria de também agradecer aos professores, por todo ensinamento passado durante as
+aulas e auxilio durante o curso. Também aos colegas, que em muitos momentos foram como
+professores e me auxiliaram em muitos momentos com ensinamentos, conversas, entre tantas
+ajudas.
 
 
 
