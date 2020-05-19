@@ -112,7 +112,8 @@ Divisão de Informação e Documentação
 
 REFERÊNCIA BIBLIOGRÁFICA
 
-SOBRENOME, Nome do Aluno. Título do Trabalho de Graduação. 20XX. 999f. Trabalho de Graduação - FATEC de São José dos Campos: Professor Jessen Vidal.
+Rangel, Julio Cesar Silva. UTILIZAÇÃO DE TECNOLOGIA PARA ANALISE DE DADOS NO FUTEBOL AMERICANO NO BRASIL
+. 2029. 999f. Trabalho de Graduação - FATEC de São José dos Campos: Professor Jessen Vidal.
 
 
 
@@ -122,9 +123,9 @@ SOBRENOME, Nome do Aluno. Título do Trabalho de Graduação. 20XX. 999f. Trabal
 
 CESSÃO DE DIREITOS
 
-NOME(S) DO(S) AUTOR(ES): Nome Completo do Aluno 
-TÍTULO DO TRABALHO: Título do Trabalho de Graduação 
-TIPO DO TRABALHO/ANO: Trabalho de Graduação/20XX.
+NOME(S) DO(S) AUTOR(ES): Julio Cesar Silva Rangel
+TÍTULO DO TRABALHO: UTILIZAÇÃO DE TECNOLOGIA PARA ANALISE DE DADOS NO FUTEBOL AMERICANO NO BRASIL
+TIPO DO TRABALHO/ANO: Trabalho de Graduação/2020.
 
 
 É concedida à FATEC de São José dos Campos: Professor Jessen Vidal permissão para reproduzir cópias deste Trabalho e para emprestar ou vender cópias somente para propósitos acadêmicos e científicos. O autor reserva outros direitos de publicação e nenhuma parte deste Trabalho pode ser reproduzida sem a autorização do autor.
@@ -134,15 +135,14 @@ TIPO DO TRABALHO/ANO: Trabalho de Graduação/20XX.
 
 
 _____________________________________
-Nome Completo do Autor
-Endereço do Autor
-XXXXX-XXX, Cidade – Estado	
-NOME DO AUTOR
+Julio Cesar Silva Rangel
+Rua Monte das Oliveiras, 450 - Jd Altos de Santana
+12214-100, São José dos Campos – SP	
+Julio Cesar Silva Rangel
 
 
 
-
-TÍTULO DO TRABALHO DE GRADUAÇÃO
+UTILIZAÇÃO DE TECNOLOGIA PARA ANALISE DE DADOS NO FUTEBOL AMERICANO NO BRASIL
  
 
 
