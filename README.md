@@ -64,6 +64,7 @@ americano no brasil, criando um software para a análise dos dados e criação d
 que possam ser utilizadas para melhora no desempenho dos atletas, encontrando pontos fracos e potencializando as qualidades 
 
 Palavras-Chave: Futebol Americano; Analise de dados; Brasil.
+
 ABSTRACT
 
 
@@ -103,6 +104,11 @@ Para a consecução deste objetivo foram estabelecidos os objetivos específicos
 • Encontrar pontos fracos dos adversarios
 
 
+
+
+
+
+Não tem copinha, não tem mundial...#Descubra
 # 1ª Quinzena de maio
 
  
