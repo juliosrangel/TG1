@@ -107,8 +107,6 @@ Para a consecução deste objetivo foram estabelecidos os objetivos específicos
 
 
 
-
-Não tem copinha, não tem mundial...#Descubra
 # 1ª Quinzena de maio
 
  
