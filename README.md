@@ -109,6 +109,7 @@ Para a consecução deste objetivo foram estabelecidos os objetivos específicos
 O objetivo desse capitulo é apresentar as tecnologias e processos que serão utilizados para a construção do sistema.
 
 2.1 TECNOLOGIAS
+
 As tecnologia usadas neste projeto serão:
 
 -Java para desenvolvimento do Back-end.
