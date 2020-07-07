@@ -104,41 +104,36 @@ Para a consecução deste objetivo foram estabelecidos os objetivos específicos
 • Encontrar pontos fracos dos adversarios
 
 
+2. FUNDAMENTAÇÃO TÉCNICA
+
+O objetivo desse capitulo é apresentar as tecnologias e processos que serão utilizados para a construção do sistema.
+
+2.1 TECNOLOGIAS
+As tecnologia usadas neste projeto serão:
+
+-Java para desenvolvimento do Back-end.
+
+-Vue.js onde sera desenvolvido o Front-end.
+
+-MySQL onde sera desenvolvido o banco de dados.
+
+-Spring Boot para realizar as configurações e publicações da aplicação.
 
 
+3. DESENVOLVIMENTO
 
-# 1ª Quinzena de maio
+3.1 - Modelagem do sistema 
 
- 
+O modelo utilizado nesse projeto sera o padrão MVC(Model - View - Controller), onde basicamente um usuário faz uma requisição, que passa pelo controller é encaminhada ao model, e após isso é devolvida ao view para o retorno ao usuário que fez a requisição inicial.
 
-(coloque aqui tudo que você fez referente ao capítulo 1 no formato exato de BD)
 
- 
+3.2 - Banco de dados 
 
-# 2ª Quinzena de maio
+O banco de dados utilizado será o MySQL, que é um SGBD(Sistema Gerenciador de Banco de Dados),  um dos mais populares no mercado atual, teve origem com a empresa AB, que posteriormente foi comprada pela Sun e posterior mente foi comprada pelo Oracle, que hoje é a proprietária da aplicação.
 
- 
+3.3 - Projeto da aplicação
 
-(coloque aqui tudo que você fez referente ao capítulo 2 no formato exato de BD)
+A ideia do sistema é a analise de dados de jogadas, para que seja feita uma resposta onde seja possível analisar as jogadas com mais índice de acerto e também as com baixo grau de funcionalidade, para que assim ocorra sua melhora.
+Neste projeto serão 3 perfis utilizados, o de administrador, comissão técnica e jogador. Onde o administrador poderá ter acesso a todos os dados, a comissão técnica terá acesso a todos os dados e também poderá fazer a entrada de dados para que o banco possa ser alimentado com novos dados, porém apenas de um determinado time e o jogador poderá ter acesso apenas a seus dados e números, não podendo assim alimentar o banco com novos dados.
 
- 
 
-# 1ª Quinzena de junho
- 
-(coloque aqui tudo que você fez referente ao capítulo 3 no formato exato de BD)
-
- 
-
-# 2ª Quinzena de junho
-
- 
-
-(coloque aqui tudo que você fez referente ao capítulo 3 no formato exato de BD) + crie um pasta chamada "Desenvolvimento" e coloque o início do código
-
- 
-
-# 1ª Quinzena de julho
-
- 
-
-(coloque aqui tudo que você fez referente ao capítulo 3 no formato exato de BD) + atualize a continuação do código
